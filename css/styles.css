@@ -768,10 +768,6 @@ img {
   justify-content: center;
 }
 
-.checkbox-span {
-  display: inline-flex;
-}
-
 .icon-checkbox {
   display: none;
   position: absolute;
