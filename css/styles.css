@@ -733,15 +733,11 @@ img {
 }
 
 .form-checkbox {
-  display: flex;
-  align-items: flex-start;
-  gap: 8px;
   width: 100%;
   margin-bottom: 24px;
 }
 
 .label-checkbox {
-  align-items: center;
   position: relative;
   padding-left: 24px;
   cursor: pointer;
