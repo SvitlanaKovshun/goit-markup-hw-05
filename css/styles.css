@@ -741,7 +741,6 @@ img {
 }
 
 .label-checkbox {
-  display: inline-block;
   align-items: center;
   position: relative;
   padding-left: 24px;
